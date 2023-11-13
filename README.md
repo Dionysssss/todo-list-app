@@ -1,6 +1,7 @@
 # todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This app is part of the lego set projects. 
+This one is used to practice Pinia in the VUE3 framework. The original project is from https://github.com/Code-Pop/pinia-fundamentals.
 
 ## Recommended IDE Setup
 
